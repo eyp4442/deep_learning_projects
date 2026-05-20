@@ -231,8 +231,6 @@ raw_data/
 *.7z
 
 # Training outputs / experiment runs
-outputs/
-runs/
 checkpoints/
 wandb/
 mlruns/
