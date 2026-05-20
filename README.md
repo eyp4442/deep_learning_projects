@@ -10,7 +10,7 @@ The projects were developed as part of a deep learning course. The first project
 ---
 
 ## Repository Structure
-text
+
 deep_learning_projects/
 │
 ├── README.md
