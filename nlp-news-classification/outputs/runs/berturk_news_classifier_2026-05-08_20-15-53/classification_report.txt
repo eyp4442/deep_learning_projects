@@ -1,0 +1,16 @@
+              precision    recall  f1-score   support
+
+       dünya       0.86      0.89      0.88      1000
+     ekonomi       0.87      0.85      0.86      1000
+      eğitim       0.88      0.90      0.89      1000
+      gündem       0.94      0.94      0.94       555
+ kültürsanat       0.79      0.71      0.75      1000
+     magazin       0.90      0.92      0.91      1000
+      sağlık       0.88      0.90      0.89      1000
+     siyaset       0.88      0.90      0.89      1000
+        spor       0.97      0.98      0.97      1000
+   teknoloji       0.88      0.90      0.89      1000
+
+    accuracy                           0.89      9555
+   macro avg       0.89      0.89      0.89      9555
+weighted avg       0.89      0.89      0.89      9555

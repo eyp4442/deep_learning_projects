@@ -1,0 +1,56 @@
+
+BERTurk Haber Sınıflandırma Karar Ajanı Özeti
+==================================================
+
+Kullanılan run:
+outputs\runs\berturk_news_classifier_2026-05-08_20-15-53
+
+Analiz edilen örnek sayısı: 1000
+
+Doğru tahmin sayısı: 893
+Doğruluk oranı: 0.8930
+
+Ortalama güven skoru: 0.9715
+
+Otomatik yönlendirilen haber sayısı: 910
+Editör / manuel kontrol isteyen haber sayısı: 90
+
+Güven eşikleri:
+- Riskli kategoriler için >= 0.97: Otomatik yönlendirme adayı
+- Diğer kategoriler için >= 0.9: Otomatik yönlendirme adayı
+- Otomatik yönlendirme için ayrıca Top-1 / Top-2 güven farkı >= 0.2 olmalıdır
+- >= 0.65 ve otomatik koşulları sağlamayanlar: Editör kontrollü yönlendirme
+- < 0.65: Manuel sınıflandırma gerekli
+
+Kategori bazında agent karar dağılımı:
+predicted_category  agent_decision              
+dünya               Editör kontrollü yönlendirme      9
+                    Manuel sınıflandırma gerekli      5
+                    Otomatik yönlendirme             81
+ekonomi             Editör kontrollü yönlendirme      4
+                    Manuel sınıflandırma gerekli      6
+                    Otomatik yönlendirme             92
+eğitim              Editör kontrollü yönlendirme     11
+                    Manuel sınıflandırma gerekli      4
+                    Otomatik yönlendirme            115
+gündem              Editör kontrollü yönlendirme      1
+                    Otomatik yönlendirme             46
+kültürsanat         Editör kontrollü yönlendirme      9
+                    Manuel sınıflandırma gerekli      7
+                    Otomatik yönlendirme             80
+magazin             Editör kontrollü yönlendirme      3
+                    Manuel sınıflandırma gerekli      3
+                    Otomatik yönlendirme             96
+sağlık              Editör kontrollü yönlendirme      5
+                    Manuel sınıflandırma gerekli      2
+                    Otomatik yönlendirme             95
+siyaset             Editör kontrollü yönlendirme     12
+                    Manuel sınıflandırma gerekli      3
+                    Otomatik yönlendirme             93
+spor                Editör kontrollü yönlendirme      1
+                    Manuel sınıflandırma gerekli      1
+                    Otomatik yönlendirme            109
+teknoloji           Editör kontrollü yönlendirme      3
+                    Manuel sınıflandırma gerekli      1
+                    Otomatik yönlendirme            103
+dtype: int64

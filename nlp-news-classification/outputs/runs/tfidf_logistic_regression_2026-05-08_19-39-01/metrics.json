@@ -1,0 +1,22 @@
+{
+    "model_name": "tfidf_logistic_regression",
+    "run_id": "2026-05-08_19-39-01",
+    "num_classes": 10,
+    "train_size": 37588,
+    "val_size": 8000,
+    "test_size": 9555,
+    "max_features": 100000,
+    "ngram_range": "(1, 2)",
+    "min_df": 2,
+    "max_df": 0.95,
+    "val_acc": 0.89325,
+    "val_macro_f1": 0.8927848839244307,
+    "val_weighted_f1": 0.8927848839244306,
+    "test_acc": 0.8835164835164835,
+    "test_macro_f1": 0.8855530056569944,
+    "test_weighted_f1": 0.8827494615797526,
+    "model_path": "outputs\\runs\\tfidf_logistic_regression_2026-05-08_19-39-01\\tfidf_logreg_model.joblib",
+    "vectorizer_path": "outputs\\runs\\tfidf_logistic_regression_2026-05-08_19-39-01\\tfidf_vectorizer.joblib",
+    "report_path": "outputs\\runs\\tfidf_logistic_regression_2026-05-08_19-39-01\\classification_report.txt",
+    "confusion_matrix_path": "outputs\\runs\\tfidf_logistic_regression_2026-05-08_19-39-01\\confusion_matrix.png"
+}

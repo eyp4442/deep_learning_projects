@@ -46,3 +46,6 @@ secrets.json
 .idea/
 .DS_Store
 Thumbs.db
+
+# Saved model folders
+**/best_model/

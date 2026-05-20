@@ -1,0 +1,42 @@
+
+BERTurk Detaylı Analiz Özeti
+==================================================
+
+Toplam test örneği: 9555
+Doğru tahmin oranı: 0.8864
+Yanlış tahmin sayısı: 1085
+
+Calibration:
+Expected Calibration Error (ECE): 0.0889
+
+En çok karışan ilk 10 sınıf çifti:
+true_category predicted_category  count
+  kültürsanat            magazin     76
+      magazin        kültürsanat     55
+  kültürsanat              dünya     45
+  kültürsanat            ekonomi     43
+      ekonomi          teknoloji     39
+  kültürsanat            siyaset     37
+  kültürsanat             sağlık     37
+      siyaset             eğitim     36
+      siyaset              dünya     31
+        dünya        kültürsanat     29
+
+Sınıf bazlı Average Precision:
+   category  average_precision
+       spor           0.994363
+     gündem           0.985573
+    magazin           0.961277
+  teknoloji           0.961026
+     eğitim           0.957683
+     sağlık           0.957049
+    siyaset           0.955896
+      dünya           0.942168
+    ekonomi           0.937823
+kültürsanat           0.823775
+
+Yorum:
+- Confusion pair analizi, modelin en çok hangi kategori çiftlerinde zorlandığını gösterir.
+- Reliability diagram, model güven skoru ile gerçek doğruluk arasındaki ilişkiyi gösterir.
+- Precision-recall analizi, her sınıf için modelin pozitif sınıf ayrım gücünü gösterir.
+- Yanlış tahminlerde ortak kelime analizi, hatalı örneklerde hangi konu/kelime alanlarının sık geçtiğini anlamaya yardımcı olur.
