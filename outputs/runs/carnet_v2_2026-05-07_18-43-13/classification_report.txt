@@ -1,0 +1,36 @@
+                                                 precision    recall  f1-score   support
+
+                       Acura ZDX Hatchback 2012       0.00      0.00      0.00        39
+       Aston Martin V8 Vantage Convertible 2012       0.50      0.02      0.04        45
+             Aston Martin V8 Vantage Coupe 2012       0.25      0.02      0.04        41
+                          Audi TT RS Coupe 2012       0.33      0.56      0.42        39
+                            Audi TTS Coupe 2012       0.10      0.02      0.04        42
+                        BMW 1 Series Coupe 2012       0.11      0.44      0.18        41
+                        BMW 3 Series Wagon 2012       0.17      0.05      0.08        41
+                                BMW X5 SUV 2007       0.50      0.12      0.20        41
+                      Cadillac CTS-V Sedan 2012       0.19      0.12      0.14        43
+                       Chevrolet Cobalt SS 2010       0.17      0.02      0.04        41
+            Chevrolet Corvette Convertible 2012       0.06      0.03      0.04        39
+Chevrolet Corvette Ron Fellows Edition Z06 2007       0.29      0.19      0.23        37
+               Chevrolet Express Cargo Van 2007       0.21      0.28      0.24        29
+                    Chevrolet Impala Sedan 2007       0.12      0.16      0.14        43
+    Chevrolet Silverado 2500HD Regular Cab 2012       0.23      0.08      0.12        38
+                    Ford Expedition EL SUV 2009       0.22      0.20      0.21        44
+                    Ford F-150 Regular Cab 2007       0.15      0.31      0.20        45
+                             Ford GT Coupe 2006       0.04      0.02      0.03        45
+                      Hyundai Accent Sedan 2012       0.00      0.00      0.00        24
+                      Hyundai Veracruz SUV 2012       0.14      0.02      0.04        42
+                             Jaguar XK XKR 2012       0.18      0.09      0.12        46
+                  Lamborghini Diablo Coupe 2001       0.43      0.84      0.57        44
+Lamborghini Gallardo LP 570-4 Superleggera 2012       0.69      0.71      0.70        35
+                Land Rover Range Rover SUV 2012       0.19      0.31      0.23        42
+               Mercedes-Benz S-Class Sedan 2012       0.35      0.57      0.43        44
+                   Mitsubishi Lancer Sedan 2012       0.17      0.15      0.16        47
+                 Ram C_V Cargo Van Minivan 2012       0.18      0.46      0.26        41
+                        Toyota 4Runner SUV 2012       0.16      0.47      0.24        40
+               Volkswagen Beetle Hatchback 2012       0.11      0.10      0.10        42
+                       Volvo C30 Hatchback 2012       0.09      0.02      0.04        41
+
+                                       accuracy                           0.21      1221
+                                      macro avg       0.21      0.21      0.18      1221
+                                   weighted avg       0.21      0.21      0.18      1221

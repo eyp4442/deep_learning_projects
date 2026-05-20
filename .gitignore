@@ -1,0 +1,48 @@
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Dataset / raw data
+data/
+datasets/
+raw_data/
+*.zip
+*.rar
+*.tar
+*.gz
+*.7z
+
+# Model weights / checkpoints
+outputs/models/
+*.pt
+*.pth
+*.ckpt
+*.bin
+*.safetensors
+*.joblib
+
+# Other training folders
+checkpoints/
+wandb/
+mlruns/
+
+# Secrets / tokens
+.env
+*.env
+kaggle.json
+HF_TOKEN
+token.txt
+api_key.txt
+secrets.json
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

@@ -1,0 +1,202 @@
+                                                        precision    recall  f1-score   support
+
+                            AM General Hummer SUV 2000       0.78      0.95      0.86        44
+                             Acura Integra Type R 2001       0.68      0.68      0.68        44
+                                   Acura RL Sedan 2012       0.60      0.09      0.16        32
+                                   Acura TL Sedan 2012       0.40      0.70      0.51        43
+                                  Acura TL Type-S 2008       0.64      0.50      0.56        42
+                                  Acura TSX Sedan 2012       0.50      0.30      0.38        40
+                              Acura ZDX Hatchback 2012       0.50      0.33      0.40        39
+              Aston Martin V8 Vantage Convertible 2012       0.43      0.27      0.33        45
+                    Aston Martin V8 Vantage Coupe 2012       0.32      0.17      0.22        41
+                  Aston Martin Virage Convertible 2012       0.37      0.48      0.42        33
+                        Aston Martin Virage Coupe 2012       0.63      0.84      0.72        38
+                                   Audi 100 Sedan 1994       0.50      0.35      0.41        40
+                                   Audi 100 Wagon 1994       0.55      0.38      0.45        42
+                                    Audi A5 Coupe 2012       0.49      0.63      0.55        41
+                                    Audi R8 Coupe 2012       0.69      0.47      0.56        43
+                            Audi RS 4 Convertible 2008       0.67      0.44      0.53        36
+                                    Audi S4 Sedan 2007       0.21      0.07      0.10        45
+                                    Audi S4 Sedan 2012       0.25      0.13      0.17        39
+                              Audi S5 Convertible 2012       0.43      0.57      0.49        42
+                                    Audi S5 Coupe 2012       0.28      0.12      0.17        42
+                                    Audi S6 Sedan 2011       0.35      0.74      0.48        46
+                                Audi TT Hatchback 2011       0.39      0.78      0.52        40
+                                 Audi TT RS Coupe 2012       0.55      0.56      0.56        39
+                                   Audi TTS Coupe 2012       0.42      0.19      0.26        42
+                                    Audi V8 Sedan 1994       0.49      0.47      0.48        43
+                         BMW 1 Series Convertible 2012       0.54      0.40      0.46        35
+                               BMW 1 Series Coupe 2012       0.47      0.83      0.60        41
+                               BMW 3 Series Sedan 2012       0.35      0.14      0.20        42
+                               BMW 3 Series Wagon 2012       0.55      0.66      0.60        41
+                         BMW 6 Series Convertible 2007       0.41      0.50      0.45        44
+                         BMW ActiveHybrid 5 Sedan 2012       0.44      0.47      0.46        34
+                                     BMW M3 Coupe 2012       0.38      0.45      0.41        44
+                                     BMW M5 Sedan 2010       0.67      0.10      0.17        41
+                               BMW M6 Convertible 2010       0.41      0.29      0.34        41
+                                       BMW X3 SUV 2012       0.61      0.45      0.52        38
+                                       BMW X5 SUV 2007       0.54      0.51      0.53        41
+                                       BMW X6 SUV 2012       0.87      0.64      0.74        42
+                               BMW Z4 Convertible 2012       0.75      0.38      0.50        40
+                             Bentley Arnage Sedan 2009       0.60      0.67      0.63        39
+            Bentley Continental Flying Spur Sedan 2007       0.41      0.73      0.52        44
+                     Bentley Continental GT Coupe 2007       0.44      0.33      0.38        46
+                     Bentley Continental GT Coupe 2012       0.64      0.47      0.54        34
+Bentley Continental Supersports Conv. Convertible 2012       0.70      0.53      0.60        36
+                           Bentley Mulsanne Sedan 2011       0.53      0.49      0.51        35
+                  Bugatti Veyron 16.4 Convertible 2009       0.57      0.84      0.68        32
+                        Bugatti Veyron 16.4 Coupe 2009       0.53      0.72      0.61        43
+                                Buick Enclave SUV 2012       0.50      0.79      0.61        42
+                                Buick Rainier SUV 2007       0.65      0.62      0.63        42
+                                   Buick Regal GS 2012       0.57      0.57      0.57        35
+                               Buick Verano Sedan 2012       0.33      0.38      0.35        37
+                             Cadillac CTS-V Sedan 2012       0.83      0.70      0.76        43
+                   Cadillac Escalade EXT Crew Cab 2007       0.81      0.50      0.62        44
+                                 Cadillac SRX SUV 2012       0.67      0.73      0.70        41
+                     Chevrolet Avalanche Crew Cab 2012       0.67      0.18      0.28        45
+                     Chevrolet Camaro Convertible 2012       0.46      0.52      0.49        44
+                              Chevrolet Cobalt SS 2010       0.79      0.46      0.58        41
+                   Chevrolet Corvette Convertible 2012       0.57      0.51      0.54        39
+       Chevrolet Corvette Ron Fellows Edition Z06 2007       0.55      0.84      0.67        37
+                           Chevrolet Corvette ZR1 2012       0.64      0.59      0.61        46
+                      Chevrolet Express Cargo Van 2007       0.48      0.41      0.44        29
+                            Chevrolet Express Van 2007       0.41      0.26      0.32        35
+                                 Chevrolet HHR SS 2010       0.97      0.83      0.90        36
+                           Chevrolet Impala Sedan 2007       0.33      0.63      0.44        43
+                    Chevrolet Malibu Hybrid Sedan 2010       0.90      0.24      0.38        38
+                           Chevrolet Malibu Sedan 2007       0.56      0.23      0.32        44
+                      Chevrolet Monte Carlo Coupe 2007       0.62      0.44      0.52        45
+    Chevrolet Silverado 1500 Classic Extended Cab 2007       0.60      0.71      0.65        42
+            Chevrolet Silverado 1500 Extended Cab 2012       0.27      0.35      0.31        43
+         Chevrolet Silverado 1500 Hybrid Crew Cab 2012       0.50      0.30      0.38        40
+             Chevrolet Silverado 1500 Regular Cab 2012       0.40      0.82      0.54        44
+           Chevrolet Silverado 2500HD Regular Cab 2012       0.56      0.47      0.51        38
+                            Chevrolet Sonic Sedan 2012       0.58      0.41      0.48        44
+                       Chevrolet Tahoe Hybrid SUV 2012       0.43      0.65      0.52        37
+                         Chevrolet TrailBlazer SS 2009       0.73      0.47      0.58        40
+                           Chevrolet Traverse SUV 2012       0.58      0.64      0.61        44
+                               Chrysler 300 SRT-8 2010       0.60      0.54      0.57        48
+                               Chrysler Aspen SUV 2009       0.61      0.70      0.65        43
+                   Chrysler Crossfire Convertible 2008       0.69      0.81      0.74        43
+                  Chrysler PT Cruiser Convertible 2008       0.85      0.89      0.87        45
+                     Chrysler Sebring Convertible 2010       0.49      0.60      0.54        40
+                Chrysler Town and Country Minivan 2012       0.55      0.57      0.56        37
+                              Daewoo Nubira Wagon 2002       0.69      0.78      0.73        45
+                              Dodge Caliber Wagon 2007       0.51      0.93      0.66        42
+                              Dodge Caliber Wagon 2012       0.67      0.35      0.46        40
+                            Dodge Caravan Minivan 1997       0.74      0.93      0.82        43
+                            Dodge Challenger SRT8 2011       0.71      0.82      0.76        39
+                              Dodge Charger SRT-8 2009       0.57      0.64      0.61        42
+                              Dodge Charger Sedan 2012       0.73      0.27      0.39        41
+                            Dodge Dakota Club Cab 2007       0.45      0.79      0.57        38
+                            Dodge Dakota Crew Cab 2010       0.64      0.56      0.60        41
+                                Dodge Durango SUV 2007       0.76      0.49      0.59        45
+                                Dodge Durango SUV 2012       0.66      0.77      0.71        43
+                                Dodge Journey SUV 2012       0.71      0.82      0.76        44
+                               Dodge Magnum Wagon 2008       0.93      0.33      0.48        40
+                   Dodge Ram Pickup 3500 Crew Cab 2010       0.68      0.64      0.66        42
+                   Dodge Ram Pickup 3500 Quad Cab 2009       0.59      0.30      0.39        44
+                         Dodge Sprinter Cargo Van 2009       0.65      0.51      0.57        39
+                            Eagle Talon Hatchback 1998       0.63      0.52      0.57        46
+                                  FIAT 500 Abarth 2012       0.68      0.96      0.80        27
+                             FIAT 500 Convertible 2012       0.74      0.88      0.81        33
+                   Ferrari 458 Italia Convertible 2012       0.48      0.72      0.58        39
+                         Ferrari 458 Italia Coupe 2012       0.45      0.45      0.45        42
+                   Ferrari California Convertible 2012       0.68      0.49      0.57        39
+                                 Ferrari FF Coupe 2012       0.64      0.55      0.59        42
+                               Fisker Karma Sedan 2012       0.66      0.63      0.64        43
+                          Ford E-Series Wagon Van 2012       0.88      0.81      0.85        37
+                                    Ford Edge SUV 2012       0.56      0.56      0.56        43
+                           Ford Expedition EL SUV 2009       0.72      0.70      0.71        44
+                           Ford F-150 Regular Cab 2007       0.86      0.27      0.41        45
+                           Ford F-150 Regular Cab 2012       0.53      0.71      0.61        42
+                   Ford F-450 Super Duty Crew Cab 2012       0.78      0.85      0.81        41
+                                Ford Fiesta Sedan 2012       0.34      0.71      0.46        42
+                                 Ford Focus Sedan 2007       0.63      0.42      0.51        45
+                            Ford Freestar Minivan 2007       0.82      0.73      0.77        44
+                                    Ford GT Coupe 2006       0.65      0.53      0.59        45
+                         Ford Mustang Convertible 2007       0.80      0.27      0.41        44
+                             Ford Ranger SuperCab 2011       0.76      0.60      0.67        42
+                                   GMC Acadia SUV 2012       0.64      0.68      0.66        44
+                          GMC Canyon Extended Cab 2012       0.50      0.28      0.35        40
+                                   GMC Savana Van 2012       0.62      0.84      0.71        68
+                                  GMC Terrain SUV 2012       0.76      0.68      0.72        41
+                             GMC Yukon Hybrid SUV 2012       0.57      0.57      0.57        42
+                            Geo Metro Convertible 1993       0.73      0.82      0.77        44
+                           HUMMER H2 SUT Crew Cab 2009       0.59      0.60      0.60        43
+                              HUMMER H3T Crew Cab 2010       0.62      0.59      0.61        39
+                               Honda Accord Coupe 2012       0.70      0.36      0.47        39
+                               Honda Accord Sedan 2012       0.27      0.11      0.15        38
+                            Honda Odyssey Minivan 2007       0.43      0.80      0.56        41
+                            Honda Odyssey Minivan 2012       0.48      0.69      0.56        42
+                             Hyundai Accent Sedan 2012       0.16      0.17      0.16        24
+                              Hyundai Azera Sedan 2012       0.45      0.36      0.40        42
+                            Hyundai Elantra Sedan 2007       0.50      0.45      0.47        42
+                Hyundai Elantra Touring Hatchback 2012       0.46      0.14      0.22        42
+                            Hyundai Genesis Sedan 2012       0.44      0.26      0.32        43
+                             Hyundai Santa Fe SUV 2012       0.86      0.76      0.81        42
+                      Hyundai Sonata Hybrid Sedan 2012       0.56      0.42      0.48        33
+                             Hyundai Sonata Sedan 2012       0.39      0.85      0.54        39
+                               Hyundai Tucson SUV 2012       0.57      0.72      0.64        43
+                       Hyundai Veloster Hatchback 2012       0.73      0.59      0.65        41
+                             Hyundai Veracruz SUV 2012       0.42      0.19      0.26        42
+                             Infiniti G Coupe IPL 2012       0.69      0.53      0.60        34
+                                Infiniti QX56 SUV 2011       0.93      0.78      0.85        32
+                               Isuzu Ascender SUV 2008       0.76      0.72      0.74        40
+                                    Jaguar XK XKR 2012       0.51      0.39      0.44        46
+                                 Jeep Compass SUV 2012       0.64      0.43      0.51        42
+                          Jeep Grand Cherokee SUV 2012       0.56      0.51      0.53        45
+                                 Jeep Liberty SUV 2012       0.67      0.59      0.63        44
+                                 Jeep Patriot SUV 2012       0.59      0.80      0.68        44
+                                Jeep Wrangler SUV 2012       0.84      0.84      0.84        43
+                      Lamborghini Aventador Coupe 2012       0.81      0.67      0.73        43
+                         Lamborghini Diablo Coupe 2001       0.67      0.91      0.77        44
+       Lamborghini Gallardo LP 570-4 Superleggera 2012       0.97      0.80      0.88        35
+                       Lamborghini Reventon Coupe 2008       0.62      0.89      0.73        36
+                               Land Rover LR2 SUV 2012       0.58      0.67      0.62        42
+                       Land Rover Range Rover SUV 2012       0.59      0.90      0.72        42
+                           Lincoln Town Car Sedan 2011       0.64      0.77      0.70        39
+                 MINI Cooper Roadster Convertible 2012       0.79      0.86      0.83        36
+                    Maybach Landaulet Convertible 2012       0.71      0.86      0.78        29
+                                Mazda Tribute SUV 2011       0.59      0.61      0.60        36
+                            McLaren MP4-12C Coupe 2012       0.68      0.89      0.77        44
+              Mercedes-Benz 300-Class Convertible 1993       0.83      0.81      0.82        48
+                      Mercedes-Benz C-Class Sedan 2012       0.57      0.62      0.60        45
+                      Mercedes-Benz E-Class Sedan 2012       0.11      0.07      0.09        43
+                      Mercedes-Benz S-Class Sedan 2012       0.35      0.89      0.50        44
+                     Mercedes-Benz SL-Class Coupe 2009       0.56      0.56      0.56        36
+                       Mercedes-Benz Sprinter Van 2012       0.67      0.85      0.75        41
+                          Mitsubishi Lancer Sedan 2012       0.55      0.13      0.21        47
+                               Nissan 240SX Coupe 1998       0.68      0.70      0.69        46
+                            Nissan Juke Hatchback 2012       0.52      0.80      0.63        44
+                            Nissan Leaf Hatchback 2012       0.59      0.90      0.72        42
+                          Nissan NV Passenger Van 2012       0.77      0.79      0.78        38
+                              Plymouth Neon Coupe 1999       0.57      0.82      0.67        44
+                           Porsche Panamera Sedan 2012       0.44      0.49      0.46        43
+                        Ram C_V Cargo Van Minivan 2012       0.77      0.49      0.60        41
+                          Rolls-Royce Ghost Sedan 2012       0.67      0.68      0.68        38
+   Rolls-Royce Phantom Drophead Coupe Convertible 2012       0.64      0.60      0.62        30
+                        Rolls-Royce Phantom Sedan 2012       0.62      0.57      0.60        44
+                               Scion xD Hatchback 2012       0.77      0.41      0.54        41
+                            Spyker C8 Convertible 2009       0.46      0.60      0.52        45
+                                  Spyker C8 Coupe 2009       0.41      0.29      0.34        42
+                               Suzuki Aerio Sedan 2007       0.58      0.55      0.57        38
+                             Suzuki Kizashi Sedan 2012       0.39      0.57      0.46        46
+                             Suzuki SX4 Hatchback 2012       0.51      0.50      0.51        42
+                                 Suzuki SX4 Sedan 2012       0.46      0.30      0.36        40
+                              Tesla Model S Sedan 2012       0.51      0.61      0.55        38
+                               Toyota 4Runner SUV 2012       0.63      0.80      0.70        40
+                               Toyota Camry Sedan 2012       0.38      0.63      0.47        43
+                             Toyota Corolla Sedan 2012       0.23      0.12      0.15        43
+                               Toyota Sequoia SUV 2012       0.50      0.63      0.56        38
+                      Volkswagen Beetle Hatchback 2012       0.47      0.76      0.58        42
+                        Volkswagen Golf Hatchback 1991       0.49      0.78      0.61        46
+                        Volkswagen Golf Hatchback 2012       0.56      0.58      0.57        43
+                                  Volvo 240 Sedan 1993       0.63      0.93      0.75        45
+                              Volvo C30 Hatchback 2012       0.68      0.41      0.52        41
+                                   Volvo XC90 SUV 2007       0.77      0.40      0.52        43
+                         smart fortwo Convertible 2012       0.86      0.80      0.83        40
+
+                                              accuracy                           0.57      8041
+                                             macro avg       0.59      0.57      0.55      8041
+                                          weighted avg       0.59      0.57      0.55      8041
