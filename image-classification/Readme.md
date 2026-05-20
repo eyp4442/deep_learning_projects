@@ -1,6 +1,9 @@
+# Stanford Cars Image Classification
+
 ## 1. Project Overview
 
 This project focuses on image classification using the Stanford Cars dataset. The main goal was not only to train a model, but also to modify CNN architectures and compare the effect of these changes.
+
 
 The project includes custom CNN models and transfer learning experiments. The main experiments are:
 
