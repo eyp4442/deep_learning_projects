@@ -216,3 +216,46 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# =========================
+# Project-specific ignores
+# =========================
+
+# Datasets / raw data
+data/
+datasets/
+raw_data/
+*.zip
+*.rar
+*.tar
+*.gz
+*.7z
+
+# Training outputs / experiment runs
+outputs/
+runs/
+checkpoints/
+wandb/
+mlruns/
+
+# Model weights / checkpoints
+*.pt
+*.pth
+*.ckpt
+*.bin
+*.safetensors
+*.joblib
+
+# Secrets / tokens
+kaggle.json
+HF_TOKEN
+token.txt
+api_key.txt
+secrets.json
+
+# IDE folders
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
